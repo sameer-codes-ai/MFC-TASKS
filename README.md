@@ -2,7 +2,7 @@
 
 1️⃣ Clone the repo
 
-git clone https://github.com/sameer-codes-ai/library-management-system.git
+git clone https://github.com/sameer-codes-ai/mfc-tasks.git
 
 2️⃣ Compile & Run the Program
 
