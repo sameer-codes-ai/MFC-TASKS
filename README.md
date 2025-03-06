@@ -5,7 +5,9 @@
 git clone https://github.com/sameer-codes-ai/library-management-system.git
 
 2️⃣ Compile & Run the Program
+
 for task 1:
+
 javac task1_sorting.java
 java mfc_task1
 
